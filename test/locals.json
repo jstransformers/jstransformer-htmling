@@ -1,0 +1,12 @@
+{
+  "title": "User List",
+  "description": "A list of users",
+  "users": [
+    {
+      "name": "Alice"
+    },
+    {
+      "name": "George"
+    }
+  ]
+}
