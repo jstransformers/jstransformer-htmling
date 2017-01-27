@@ -30,6 +30,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "htmling": "0.0.7"
+    "htmling": "0.0.8"
   }
 }
