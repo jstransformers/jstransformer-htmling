@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-htmling",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "HTMLing support for JSTransformers.",
   "keywords": [
     "jstransformer"
