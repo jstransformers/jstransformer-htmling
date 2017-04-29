@@ -1,5 +1,7 @@
 # jstransformer-htmling
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-htmling.svg)](https://greenkeeper.io/)
+
 [HTMLing](https://github.com/codemix/htmling) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-htmling/master.svg)](https://travis-ci.org/jstransformers/jstransformer-htmling)
