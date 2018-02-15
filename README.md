@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var htmling = require('jstransformer')(require('jstransformer-htmling'));
+var htmling = require('jstransformer')(require('jstransformer-htmling'))
 
 htmling.render('<h1>Hello, {{title}}!</h1>', { name: 'World' }).body
 //=> '<h1>Hello, World!</h1>'
